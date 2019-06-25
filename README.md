@@ -1,5 +1,5 @@
-# Macintosh-M68K
-List High End Macintosh 68K
+# Macintosh-68K
+List High End Macintosh Motorola 68K Based Processor
 
 ***Macintosh Quadra 840AV***
 

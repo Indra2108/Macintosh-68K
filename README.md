@@ -13,11 +13,11 @@ List High End Macintosh Motorola 68K Based Processor
 * **CPU**              : Motorola 68030 @ 40 MHz
 * **RAM**              : 4 MB, expandable to 128 MB (80 ns 64-pin SIMMs)
 
-***Macintosh LC 580***
+***PowerBook 550c (Portable Computer)***
 
-* **Operating system** : System 7.1.2P - 7.5.1, System 7.5.3 to Mac OS 8.1
-* **CPU**              : Motorola 68LC040 @ 33 MHz
-* **RAM**              : 8 MB, expandable to 68 MB (80 ns 72-pin SIMM)
+* **Operating system** : System 7.1.1 (Built-in) - Mac OS 8.1
+* **CPU**              : Motorola 68040 @ 33 MHz
+* **RAM**              : 8 MB, Maximum 36 MB
 
 ***Macintosh Color Classic***
 
